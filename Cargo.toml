@@ -1,0 +1,11 @@
+[package]
+name = "elfdiff"
+version = "0.0.1"
+authors = ["Matt Vertescher <mvertescher@gmail.com>"]
+
+[dependencies]
+clap = "~2.32"
+difference = "2.0"
+hexdump = "0.1"
+term = "0.5"
+xmas-elf = "0.6"
