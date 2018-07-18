@@ -5,6 +5,19 @@
 
 A simple ELF file diff tool!
 
+```
+USAGE:
+elfdiff <ELF-1> <ELF-2>
+
+FLAGS:
+-h, --help       Prints help information
+-V, --version    Prints version information
+
+ARGS:
+<ELF-1>    First ELF
+<ELF-2>    Second ELF
+```
+
 ## License
 
 Licensed under either of
